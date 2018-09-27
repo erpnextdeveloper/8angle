@@ -19,3 +19,7 @@ now run 8angle/index.php in your browser
 register yourself .....  
 
 Single user or Multi Companies
+
+
+
+Visit www.EightAngle.com for features details.
